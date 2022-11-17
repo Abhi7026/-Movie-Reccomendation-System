@@ -1,5 +1,4 @@
 # The-Movie-Recommendation-System
-This project is a part of my Microsoft Intern Engage 2022
 In this I am using python and its libraries such as scikit-learn, pandas etc for Machine Learning.
 and for front end I am using flask and HTML, CSS, bootstrap.
 
@@ -32,5 +31,3 @@ Credits Dataset - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?selec
 4. Run the flask app (Python .\app.py)
 
 
-
-I had deployed once to test my backend =-- https://ms-algo-deep.herokuapp.com (this is not the full app it was only for testing backend)
